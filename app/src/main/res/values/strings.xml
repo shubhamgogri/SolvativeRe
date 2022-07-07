@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Solvative</string>
+    <string name="artworks">ArtWorks</string>
+    <string name="artistid">ArtistId:</string>
+</resources>
